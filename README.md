@@ -1,3 +1,11 @@
 # SNESDRONE-Cartridge-Shell
 
-SNESDRONE-Cartridge-Shell-front-V0.1.1.stl and SNESDRONE-Cartridge-Shell-back-V0.1.1.stl are the only important files. The rest are just assets for later use.
+Shell for the SnesDrone Cartridge (Alpha V0.1.1) made in Tinkercad.
+
+This shell fits with the SnesDrone PCB V0.1.1 and should work for both PAL and NTSC consoles.
+
+The whole assembly on Tinkercad: https://www.tinkercad.com/things/ix8DiQMghbr
+The back of the shell on Tinkercad: https://www.tinkercad.com/things/ckL3MM4yyzZ
+And the front: https://www.tinkercad.com/things/8N7hERXWunS
+
+A picture of the assembly is included in this repository.
